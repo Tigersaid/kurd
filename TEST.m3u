@@ -1,0 +1,439 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##########   Sweden   ##########" tvg-logo="" group-title="Sweden",##########   Sweden   ##########
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2539.ts
+#EXTINF:-1 tvg-id="SVT1 SE" tvg-name="SVT1 SE" tvg-logo="http://195.154.221.171/picons/svt1se.png" group-title="Sweden",SVT1 SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6138.ts
+#EXTINF:-1 tvg-id="SVT1 SE" tvg-name="SVT1 HD SE" tvg-logo="http://195.154.221.171/picons/svt1hdse.png" group-title="Sweden",SVT1 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2966.ts
+#EXTINF:-1 tvg-id="" tvg-name="SVT 1 (BackUP) SE" tvg-logo="" group-title="Sweden",SVT 1 (BackUP) SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6507.ts
+#EXTINF:-1 tvg-id="SVT2 SE" tvg-name="SVT2 SE" tvg-logo="http://195.154.221.171/picons/svt2se.png" group-title="Sweden",SVT2 SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6139.ts
+#EXTINF:-1 tvg-id="SVT2 SE" tvg-name="SVT2 HD SE" tvg-logo="http://195.154.221.171/picons/svt2hdse.png" group-title="Sweden",SVT2 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2965.ts
+#EXTINF:-1 tvg-id="" tvg-name="SVT 2 (BackUP) SE" tvg-logo="" group-title="Sweden",SVT 2 (BackUP) SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6508.ts
+#EXTINF:-1 tvg-id="Barnkanalen SE" tvg-name="SVT Barnkanalen SE" tvg-logo="http://195.154.221.171/picons/svtbarnkanalense.png" group-title="Sweden",SVT Barnkanalen SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2964.ts
+#EXTINF:-1 tvg-id="" tvg-name="SVT24/B (BackUP) SE" tvg-logo="" group-title="Sweden",SVT24/B (BackUP) SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6509.ts
+#EXTINF:-1 tvg-id="TV3 SE" tvg-name="TV3 HD SE" tvg-logo="http://195.154.221.171/picons/tv3hdse.png" group-title="Sweden",TV3 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2963.ts
+#EXTINF:-1 tvg-id="TV4 Fakta SE" tvg-name="TV4 Fakta SE" tvg-logo="http://195.154.221.171/picons/tv4faktase.png" group-title="Sweden",TV4 Fakta SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2960.ts
+#EXTINF:-1 tvg-id="TV4 Fakta XL SE" tvg-name="TV4 Fakta XL SE" tvg-logo="http://195.154.221.171/picons/tv4faktaxlse.png" group-title="Sweden",TV4 Fakta XL SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2959.ts
+#EXTINF:-1 tvg-id="TV4 Film SE" tvg-name="TV4 Film SE" tvg-logo="http://195.154.221.171/picons/tv4filmse.png" group-title="Sweden",TV4 Film SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2958.ts
+#EXTINF:-1 tvg-id="TV4 Guld SE" tvg-name="TV4 Guld SE" tvg-logo="http://195.154.221.171/picons/tv4guldse.png" group-title="Sweden",TV4 Guld SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2961.ts
+#EXTINF:-1 tvg-id="TV4 SE" tvg-name="TV4 HD SE" tvg-logo="http://195.154.221.171/picons/tv4hdse.png" group-title="Sweden",TV4 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2962.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV4 FHD SE" tvg-logo="" group-title="Sweden",TV4 FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6490.ts
+#EXTINF:-1 tvg-id="TV4 Komedi SE" tvg-name="TV4 Komedi SE" tvg-logo="http://195.154.221.171/picons/tv4komedise.png" group-title="Sweden",TV4 Komedi SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2957.ts
+#EXTINF:-1 tvg-id="Kanal 5 SE" tvg-name="Kanal 5 SE" tvg-logo="http://195.154.221.171/picons/kanal5se.png" group-title="Sweden",Kanal 5 SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2955.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5 FHD SE" tvg-logo="" group-title="Sweden",Kanal 5 FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6496.ts
+#EXTINF:-1 tvg-id="TV6 SE" tvg-name="TV6 SE" tvg-logo="http://195.154.221.171/picons/tv6se.png" group-title="Sweden",TV6 SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/3919.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV6 FHD SE" tvg-logo="" group-title="Sweden",TV6 FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6499.ts
+#EXTINF:-1 tvg-id="Sjuan SE" tvg-name="Sjuan SE" tvg-logo="http://195.154.221.171/picons/sjuanse.png" group-title="Sweden",Sjuan SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2941.ts
+#EXTINF:-1 tvg-id="TV8 SE" tvg-name="TV8 SE" tvg-logo="http://195.154.221.171/picons/tv8se.png" group-title="Sweden",TV8 SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2953.ts
+#EXTINF:-1 tvg-id="Kanal 9 SE" tvg-name="Kanal 9 SE" tvg-logo="http://195.154.221.171/picons/kanal9se.png" group-title="Sweden",Kanal 9 SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2943.ts
+#EXTINF:-1 tvg-id="Kanal 9 SE" tvg-name="Kanal 9 FHD SE" tvg-logo="http://195.154.221.171/picons/kanal9hdse.png" group-title="Sweden",Kanal 9 FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6137.ts
+#EXTINF:-1 tvg-id="TV10 SE" tvg-name="TV10 SE" tvg-logo="http://195.154.221.171/picons/tv10se.png" group-title="Sweden",TV10 SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/3000.ts
+#EXTINF:-1 tvg-id="Kanal 11 SE" tvg-name="Kanal 11 SE" tvg-logo="http://195.154.221.171/picons/kanal11se.png" group-title="Sweden",Kanal 11 SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/3917.ts
+#EXTINF:-1 tvg-id="Kanal 11 SE" tvg-name="Kanal 11 HD SE" tvg-logo="http://195.154.221.171/picons/kanal11hdse.png" group-title="Sweden",Kanal 11 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2954.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 11 FHD SE" tvg-logo="" group-title="Sweden",Kanal 11 FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6497.ts
+#EXTINF:-1 tvg-id="TV12 SE" tvg-name="TV12 SE" tvg-logo="http://195.154.221.171/picons/tv12se.png" group-title="Sweden",TV12 SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2942.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV12 FHD SE" tvg-logo="" group-title="Sweden",TV12 FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6498.ts
+#EXTINF:-1 tvg-id="FOX SE" tvg-name="FOX SE" tvg-logo="http://195.154.221.171/picons/foxse.png" group-title="Sweden",FOX SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2998.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! SE" tvg-logo="" group-title="Sweden",E! SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6884.ts
+#EXTINF:-1 tvg-id="Comedy Central SE" tvg-name="Comedy Central SE" tvg-logo="http://195.154.221.171/picons/comedycentralse.png" group-title="Sweden",Comedy Central SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2996.ts
+#EXTINF:-1 tvg-id="Boomerang SE" tvg-name="Boomerang SE" tvg-logo="http://195.154.221.171/picons/boomerangse.png" group-title="Sweden",Boomerang SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6141.ts
+#EXTINF:-1 tvg-id="Cartoon Network SE" tvg-name="Cartoon Network SE" tvg-logo="http://195.154.221.171/picons/cartoonnetworkse.png" group-title="Sweden",Cartoon Network SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2992.ts
+#EXTINF:-1 tvg-id="Disney Channel SE" tvg-name="Disney Channel SE" tvg-logo="http://195.154.221.171/picons/disneychannelse.png" group-title="Sweden",Disney Channel SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2991.ts
+#EXTINF:-1 tvg-id="Disney Junior SE" tvg-name="Disney Junior SE" tvg-logo="http://195.154.221.171/picons/disneyjuniorse.png" group-title="Sweden",Disney Junior SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2990.ts
+#EXTINF:-1 tvg-id="Disney XD SE" tvg-name="Disney XD SE" tvg-logo="http://195.154.221.171/picons/disneyxdse.png" group-title="Sweden",Disney XD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2940.ts
+#EXTINF:-1 tvg-id="Nick Jr. SE" tvg-name="Nick Jr. SE" tvg-logo="http://195.154.221.171/picons/nickjrse.png" group-title="Sweden",Nick Jr. SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2988.ts
+#EXTINF:-1 tvg-id="Nickelodeon SE" tvg-name="Nickelodeon SE" tvg-logo="http://195.154.221.171/picons/nickelodeonse.png" group-title="Sweden",Nickelodeon SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2989.ts
+#EXTINF:-1 tvg-id="Discovery Channel SE" tvg-name="Discovery Channel HD SE" tvg-logo="http://195.154.221.171/picons/discoverychannelhdse.png" group-title="Sweden",Discovery Channel HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2985.ts
+#EXTINF:-1 tvg-id="Discovery World SE" tvg-name="Discovery World SE" tvg-logo="http://195.154.221.171/picons/discoveryworldse.png" group-title="Sweden",Discovery World SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2936.ts
+#EXTINF:-1 tvg-id="Investigation Discovery SE" tvg-name="Investigation Discovery SE" tvg-logo="http://195.154.221.171/picons/investigationdiscoveryse.png" group-title="Sweden",Investigation Discovery SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2986.ts
+#EXTINF:-1 tvg-id="BBC Earth SE" tvg-name="BBC Earth HD SE" tvg-logo="http://195.154.221.171/picons/bbcearthhdse.png" group-title="Sweden",BBC Earth HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2937.ts
+#EXTINF:-1 tvg-id="H2 SE" tvg-name="H2 HD SE" tvg-logo="http://195.154.221.171/picons/h2hdse.png" group-title="Sweden",H2 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2938.ts
+#EXTINF:-1 tvg-id="History SE" tvg-name="History HD SE" tvg-logo="http://195.154.221.171/picons/historyhdse.png" group-title="Sweden",History HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2939.ts
+#EXTINF:-1 tvg-id="Kunskapskanalen SE" tvg-name="Kunskapskanalen SE" tvg-logo="http://195.154.221.171/picons/kunskapskanalense.png" group-title="Sweden",Kunskapskanalen SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kunskapskanalen FHD SE" tvg-logo="" group-title="Sweden",Kunskapskanalen FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6500.ts
+#EXTINF:-1 tvg-id="Animal Planet SE" tvg-name="Animal Planet SE" tvg-logo="http://195.154.221.171/picons/animalplanetse.png" group-title="Sweden",Animal Planet SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6098.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD SE" tvg-logo="" group-title="Sweden",Animal Planet FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6503.ts
+#EXTINF:-1 tvg-id="National Geographic SE" tvg-name="National Geographic SE" tvg-logo="http://195.154.221.171/picons/nationalgeographicse.png" group-title="Sweden",National Geographic SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2987.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild SE" tvg-name="Nat Geo Wild SE" tvg-logo="http://195.154.221.171/picons/natgeowildse.png" group-title="Sweden",Nat Geo Wild SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6142.ts
+#EXTINF:-1 tvg-id="TLC SE" tvg-name="TLC HD SE" tvg-logo="http://195.154.221.171/picons/tlchdse.png" group-title="Sweden",TLC HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2999.ts
+#EXTINF:-1 tvg-id="MTV SE" tvg-name="MTV SE" tvg-logo="http://195.154.221.171/picons/mtvse.png" group-title="Sweden",MTV SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2997.ts
+#EXTINF:-1 tvg-id="TCM SE" tvg-name="TCM SE" tvg-logo="http://195.154.221.171/picons/tcmse.png" group-title="Sweden",TCM SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2995.ts
+#EXTINF:-1 tvg-id="TNT SE" tvg-name="TNT SE" tvg-logo="http://195.154.221.171/picons/tntse.png" group-title="Sweden",TNT SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2994.ts
+#EXTINF:-1 tvg-id="Travel Channel SE" tvg-name="Travel Channel SE" tvg-logo="http://195.154.221.171/picons/travelchannelse.png" group-title="Sweden",Travel Channel SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2981.ts
+#EXTINF:-1 tvg-id="Viasat Explorer SE" tvg-name="Viasat Explore SE" tvg-logo="http://195.154.221.171/picons/viasatexplorese.png" group-title="Sweden",Viasat Explore SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2982.ts
+#EXTINF:-1 tvg-id="Viasat History SE" tvg-name="Viasat History SE" tvg-logo="http://195.154.221.171/picons/viasathistoryse.png" group-title="Sweden",Viasat History SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2983.ts
+#EXTINF:-1 tvg-id="Viasat Nature SE" tvg-name="Viasat Nature SE" tvg-logo="http://195.154.221.171/picons/viasatnaturese.png" group-title="Sweden",Viasat Nature SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2984.ts
+#EXTINF:-1 tvg-id="C More First SE" tvg-name="C More First SE" tvg-logo="http://195.154.221.171/picons/cmorefirstse.png" group-title="Sweden",C More First SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6099.ts
+#EXTINF:-1 tvg-id="C More First SE" tvg-name="C More First HD SE" tvg-logo="http://195.154.221.171/picons/cmorefirsthdse.png" group-title="Sweden",C More First HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2971.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More First FHD SE" tvg-logo="" group-title="Sweden",C More First FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6493.ts
+#EXTINF:-1 tvg-id="C More Hits SE" tvg-name="C More Hits HD SE" tvg-logo="http://195.154.221.171/picons/cmorehitshdse.png" group-title="Sweden",C More Hits HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2972.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Hits FHD SE" tvg-logo="" group-title="Sweden",C More Hits FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6494.ts
+#EXTINF:-1 tvg-id="C More Series SE" tvg-name="C More Series HD SE" tvg-logo="http://195.154.221.171/picons/cmoreserieshdse.png" group-title="Sweden",C More Series HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2973.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Series FHD SE" tvg-logo="" group-title="Sweden",C More Series FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6495.ts
+#EXTINF:-1 tvg-id="C More Stars SE" tvg-name="C More Stars HD SE" tvg-logo="http://195.154.221.171/picons/cmorestarshdse.png" group-title="Sweden",C More Stars HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6140.ts
+#EXTINF:-1 tvg-id="C More Stars SE" tvg-name="C More Stars FHD SE" tvg-logo="http://195.154.221.171/picons/cmorestarshdse.png" group-title="Sweden",C More Stars FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2974.ts
+#EXTINF:-1 tvg-id="SF Kanalen SE" tvg-name="SF Kanalen SE" tvg-logo="http://195.154.221.171/picons/sfkanalense.png" group-title="Sweden",SF Kanalen SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2980.ts
+#EXTINF:-1 tvg-id="Viasat Film Action SE" tvg-name="Viasat Film Action SE" tvg-logo="http://195.154.221.171/picons/viasatfilmactionse.png" group-title="Sweden",Viasat Film Action SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2969.ts
+#EXTINF:-1 tvg-id="Viasat Film Family SE" tvg-name="Viasat Film Family SE" tvg-logo="http://195.154.221.171/picons/viasatfilmfamilyse.png" group-title="Sweden",Viasat Film Family SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2968.ts
+#EXTINF:-1 tvg-id="Viasat Film Hits SE" tvg-name="Viasat Film Hits HD SE" tvg-logo="http://195.154.221.171/picons/viasatfilmhitshdse.png" group-title="Sweden",Viasat Film Hits HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2967.ts
+#EXTINF:-1 tvg-id="Viasat Film Premiere SE" tvg-name="Viasat Film Premiere HD SE" tvg-logo="http://195.154.221.171/picons/viasatfilmpremierehdse.png" group-title="Sweden",Viasat Film Premiere HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2970.ts
+#EXTINF:-1 tvg-id="Viasat Series SE" tvg-name="Viasat Series HD SE" tvg-logo="http://195.154.221.171/picons/viasatserieshdse.png" group-title="Sweden",Viasat Series HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2944.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Comedy HD SE" tvg-logo="http://195.154.221.171/picons/viasatfilmcomedyhdse.png" group-title="Sweden",Viasat Film Comedy HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6104.ts
+#EXTINF:-1 tvg-id="C More Fotboll SE" tvg-name="C More Fotboll HD SE" tvg-logo="http://195.154.221.171/picons/cmorefotbollhdse.png" group-title="Sweden",C More Fotboll HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/1176.ts
+#EXTINF:-1 tvg-id="C More Sport SE" tvg-name="C More Sport HD SE" tvg-logo="http://195.154.221.171/picons/cmoresporthdse.png" group-title="Sweden",C More Sport HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/1175.ts
+#EXTINF:-1 tvg-id="C More Sport SE" tvg-name="C More Sport FHD SE" tvg-logo="http://195.154.221.171/picons/cmoresporthdse.png" group-title="Sweden",C More Sport FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6194.ts
+#EXTINF:-1 tvg-id="C More Golf HD SE" tvg-name="C More Golf HD SE" tvg-logo="http://195.154.221.171/picons/cmoregolfhdse.png" group-title="Sweden",C More Golf HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2975.ts
+#EXTINF:-1 tvg-id="C More Hockey SE" tvg-name="C More Hockey HD SE" tvg-logo="http://195.154.221.171/picons/cmorehockeyhdse.png" group-title="Sweden",C More Hockey HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2976.ts
+#EXTINF:-1 tvg-id="C More Hockey SE" tvg-name="C More Hockey FHD SE" tvg-logo="http://195.154.221.171/picons/cmorehockeyhdse.png" group-title="Sweden",C More Hockey FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6195.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Tennis SE" tvg-logo="http://195.154.221.171/picons/cmoretennisse.png" group-title="Sweden",C More Tennis SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6101.ts
+#EXTINF:-1 tvg-id="C More Live SE" tvg-name="C More Live SE" tvg-logo="http://195.154.221.171/picons/cmorelivese.png" group-title="Sweden",C More Live SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6100.ts
+#EXTINF:-1 tvg-id="C More Live SE" tvg-name="C More Live 1 HD SE" tvg-logo="http://195.154.221.171/picons/cmorelivehdse.png" group-title="Sweden",C More Live 1 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2950.ts
+#EXTINF:-1 tvg-id="C More Live 2 SE" tvg-name="C More Live 2 HD SE" tvg-logo="http://195.154.221.171/picons/cmorelive2hdse.png" group-title="Sweden",C More Live 2 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2949.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 3 HD SE" tvg-logo="http://195.154.221.171/picons/cmorelive3hdse.png" group-title="Sweden",C More Live 3 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2948.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 4 HD SE" tvg-logo="http://195.154.221.171/picons/cmorelive4hdse.png" group-title="Sweden",C More Live 4 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2947.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 5 HD SE" tvg-logo="" group-title="Sweden",C More Live 5 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6870.ts
+#EXTINF:-1 tvg-id="Eurosport 1 SE" tvg-name="Eurosport 1 FHD SE" tvg-logo="http://195.154.221.171/picons/eurosport1hdse.png" group-title="Sweden",Eurosport 1 FHD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6102.ts
+#EXTINF:-1 tvg-id="Eurosport 1 SE" tvg-name="Eurosport 1 HD SE" tvg-logo="http://195.154.221.171/picons/eurosport1hdse.png" group-title="Sweden",Eurosport 1 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2977.ts
+#EXTINF:-1 tvg-id="Eurosport 2 SE" tvg-name="Eurosport 2 HD SE" tvg-logo="http://195.154.221.171/picons/eurosport2hdse.png" group-title="Sweden",Eurosport 2 HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2946.ts
+#EXTINF:-1 tvg-id="TV3 Sport HD SE" tvg-name="TV3 Sport HD SE" tvg-logo="http://195.154.221.171/picons/tv3sporthdse.png" group-title="Sweden",TV3 Sport HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2979.ts
+#EXTINF:-1 tvg-id="TV4 Sport SE" tvg-name="TV4 Sport HD SE" tvg-logo="http://195.154.221.171/picons/tv4sporthdse.png" group-title="Sweden",TV4 Sport HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2978.ts
+#EXTINF:-1 tvg-id="TV4 Sport SE" tvg-name="TV4 Sport SE" tvg-logo="http://195.154.221.171/picons/tv4sportse.png" group-title="Sweden",TV4 Sport SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6108.ts
+#EXTINF:-1 tvg-id="Motorsport.TV SE" tvg-name="Motorsport.TV HD SE" tvg-logo="http://195.154.221.171/picons/motorsporttvhdse.png" group-title="Sweden",Motorsport.TV HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/3916.ts
+#EXTINF:-1 tvg-id="Fight Sports SE" tvg-name="Fight Sports SE" tvg-logo="http://195.154.221.171/picons/fightsportsse.png" group-title="Sweden",Fight Sports SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2945.ts
+#EXTINF:-1 tvg-id="Viasat Fotboll SE" tvg-name="Viasat Fotboll HD SE" tvg-logo="http://195.154.221.171/picons/viasatfotbollhdse.png" group-title="Sweden",Viasat Fotboll HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/1174.ts
+#EXTINF:-1 tvg-id="Viasat Golf SE" tvg-name="Viasat Golf SE" tvg-logo="http://195.154.221.171/picons/viasatgolfse.png" group-title="Sweden",Viasat Golf SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2935.ts
+#EXTINF:-1 tvg-id="Viasat Hockey SE" tvg-name="Viasat Hockey HD SE" tvg-logo="http://195.154.221.171/picons/viasathockeyhdse.png" group-title="Sweden",Viasat Hockey HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2928.ts
+#EXTINF:-1 tvg-id="Viasat Motor SE" tvg-name="Viasat Motor HD SE" tvg-logo="http://195.154.221.171/picons/viasatmotorhdse.png" group-title="Sweden",Viasat Motor HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2929.ts
+#EXTINF:-1 tvg-id="Viasat Sport SE" tvg-name="Viasat Sport SE" tvg-logo="http://195.154.221.171/picons/viasatsportse.png" group-title="Sweden",Viasat Sport SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2952.ts
+#EXTINF:-1 tvg-id="Viasat Sport Premium HD SE" tvg-name="Viasat Sport Premium SE" tvg-logo="http://195.154.221.171/picons/viasatsportpremiumse.png" group-title="Sweden",Viasat Sport Premium SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/1186.ts
+#EXTINF:-1 tvg-id="Viasat Sport Premium HD SE" tvg-name="Viasat Sport Premium HD SE" tvg-logo="http://195.154.221.171/picons/viasatsportpremiumhdse.png" group-title="Sweden",Viasat Sport Premium HD SE
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/1187.ts
+#EXTINF:-1 tvg-id="" tvg-name="##########   Kurdistan   ##########" tvg-logo="" group-title="Kurdistan",##########   Kurdistan   ##########
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2544.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Sport KRD" tvg-logo="" group-title="Kurdistan",A Sport KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6727.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASO Sport KRD" tvg-logo="" group-title="Kurdistan",ASO Sport KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Turkmenia TV KRD" tvg-logo="" group-title="Kurdistan",Al Turkmenia TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ala HD KRD" tvg-logo="" group-title="Kurdistan",Ala HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amozhgary TV KRD" tvg-logo="" group-title="Kurdistan",Amozhgary TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ankawa HD KRD" tvg-logo="" group-title="Kurdistan",Ankawa HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Asman HD KRD" tvg-logo="" group-title="Kurdistan",Asman HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astera HD KRD" tvg-logo="" group-title="Kurdistan",Astera HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6722.ts
+#EXTINF:-1 tvg-id="" tvg-name="BMC HD KRD" tvg-logo="" group-title="Kurdistan",BMC HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6714.ts
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Music TV KRD" tvg-logo="" group-title="Kurdistan",Babylon Music TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Badinan KRD" tvg-logo="" group-title="Kurdistan",Badinan KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bangawaz KRD" tvg-logo="" group-title="Kurdistan",Bangawaz KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2045.ts
+#EXTINF:-1 tvg-id="" tvg-name="Best TV KRD" tvg-logo="" group-title="Kurdistan",Best TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Biaban Movies HD KRD" tvg-logo="" group-title="Kurdistan",Biaban Movies HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6717.ts
+#EXTINF:-1 tvg-id="" tvg-name="Biaban Music KRD" tvg-logo="" group-title="Kurdistan",Biaban Music KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Biaban Sport KRD" tvg-logo="" group-title="Kurdistan",Biaban Sport KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6715.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chara TV KRD" tvg-logo="" group-title="Kurdistan",Chara TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cihan HD KRD" tvg-logo="" group-title="Kurdistan",Cihan HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6712.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cira TV KRD" tvg-logo="" group-title="Kurdistan",Cira TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Democracy HD KRD" tvg-logo="" group-title="Kurdistan",Democracy HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6710.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duhok TV KRD" tvg-logo="" group-title="Kurdistan",Duhok TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6709.ts
+#EXTINF:-1 tvg-id="" tvg-name="Effect KRD" tvg-logo="" group-title="Kurdistan",Effect KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6708.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esta HD KRD" tvg-logo="" group-title="Kurdistan",Esta HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evin TV KRD" tvg-logo="" group-title="Kurdistan",Evin TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Falcon Family HD KRD" tvg-logo="" group-title="Kurdistan",Falcon Family HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6705.ts
+#EXTINF:-1 tvg-id="" tvg-name="Falcon HD KRD" tvg-logo="" group-title="Kurdistan",Falcon HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6704.ts
+#EXTINF:-1 tvg-id="" tvg-name="Falcon Eye 2 HD KRD" tvg-logo="" group-title="Kurdistan",Falcon Eye 2 HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Freedom TV KRD" tvg-logo="" group-title="Kurdistan",Freedom TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gali Kurdistan KRD" tvg-logo="" group-title="Kurdistan",Gali Kurdistan KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gem Kurd KRD" tvg-logo="" group-title="Kurdistan",Gem Kurd KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gk Sport KRD" tvg-logo="" group-title="Kurdistan",Gk Sport KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6700.ts
+#EXTINF:-1 tvg-id="" tvg-name="HelHelok TV KRD" tvg-logo="" group-title="Kurdistan",HelHelok TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hevi TV KRD" tvg-logo="" group-title="Kurdistan",Hevi TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6698.ts
+#EXTINF:-1 tvg-id="" tvg-name="I-Movies KRD" tvg-logo="" group-title="Kurdistan",I-Movies KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6696.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ishtar TV KRD" tvg-logo="" group-title="Kurdistan",Ishtar TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jamawar TV KRD" tvg-logo="" group-title="Kurdistan",Jamawar TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jojo Mama HD KRD" tvg-logo="" group-title="Kurdistan",Jojo Mama HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6693.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jwdy KRD" tvg-logo="" group-title="Kurdistan",Jwdy KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6691.ts
+#EXTINF:-1 tvg-id="" tvg-name="K24 KRD" tvg-logo="" group-title="Kurdistan",K24 KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2037.ts
+#EXTINF:-1 tvg-id="" tvg-name="KNN KRD" tvg-logo="" group-title="Kurdistan",KNN KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kana TV KRD" tvg-logo="" group-title="Kurdistan",Kana TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2463.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal4 KRD" tvg-logo="" group-title="Kurdistan",Kanal4 KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kerkok KRD" tvg-logo="" group-title="Kurdistan",Kerkok KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6690.ts
+#EXTINF:-1 tvg-id="" tvg-name="Khak HD KRD" tvg-logo="" group-title="Kurdistan",Khak HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6688.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kirkuk KRD" tvg-logo="" group-title="Kurdistan",Kirkuk KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Komala TV KRD" tvg-logo="" group-title="Kurdistan",Komala TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2467.ts
+#EXTINF:-1 tvg-id="" tvg-name="Korek TV KRD" tvg-logo="" group-title="Kurdistan",Korek TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2470.ts
+#EXTINF:-1 tvg-id="" tvg-name="KurdMax Show TV Sorani KRD" tvg-logo="" group-title="Kurdistan",KurdMax Show TV Sorani KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdistan Sport HD KRD" tvg-logo="" group-title="Kurdistan",Kurdistan Sport HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdistan TV KRD" tvg-logo="" group-title="Kurdistan",Kurdistan TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdistan24 KRD" tvg-logo="" group-title="Kurdistan",Kurdistan24 KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdmax KRD" tvg-logo="" group-title="Kurdistan",Kurdmax KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2033.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Kurmanci KRD" tvg-logo="" group-title="Kurdistan",Kurdmax Kurmanci KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2032.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Pepule Kurmanci KRD" tvg-logo="" group-title="Kurdistan",Kurdmax Pepule Kurmanci KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Pepule Sorani KRD" tvg-logo="" group-title="Kurdistan",Kurdmax Pepule Sorani KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Sorani KRD" tvg-logo="" group-title="Kurdistan",Kurdmax Sorani KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2031.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdsat HD KRD" tvg-logo="" group-title="Kurdistan",Kurdsat HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6680.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdsat KRD" tvg-logo="" group-title="Kurdistan",Kurdsat KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2030.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdsat News HD KRD" tvg-logo="" group-title="Kurdistan",Kurdsat News HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6679.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdsat News KRD" tvg-logo="" group-title="Kurdistan",Kurdsat News KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdsat Pepul KRD" tvg-logo="" group-title="Kurdistan",Kurdsat Pepul KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lalish TV KRD" tvg-logo="" group-title="Kurdistan",Lalish TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6678.ts
+#EXTINF:-1 tvg-id="" tvg-name="Law HD KRD" tvg-logo="" group-title="Kurdistan",Law HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6677.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max TV HD KRD" tvg-logo="" group-title="Kurdistan",Max TV HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Med Muzik KRD" tvg-logo="" group-title="Kurdistan",Med Muzik KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2027.ts
+#EXTINF:-1 tvg-id="" tvg-name="Minara TV KRD" tvg-logo="" group-title="Kurdistan",Minara TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mody Kids KRD" tvg-logo="" group-title="Kurdistan",Mody Kids KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2471.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEW ART HD KRD" tvg-logo="" group-title="Kurdistan",NEW ART HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6673.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT 1 KRD" tvg-logo="" group-title="Kurdistan",NRT 1 KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2024.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT 2 KRD" tvg-logo="" group-title="Kurdistan",NRT 2 KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2022.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT Arabic KRD" tvg-logo="" group-title="Kurdistan",NRT Arabic KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2023.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT HD KRD" tvg-logo="" group-title="Kurdistan",NRT HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6666.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT2 HD KRD" tvg-logo="" group-title="Kurdistan",NRT2 HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6665.ts
+#EXTINF:-1 tvg-id="" tvg-name="Net TV Drama HD KRD" tvg-logo="" group-title="Kurdistan",Net TV Drama HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Net TV KRD" tvg-logo="" group-title="Kurdistan",Net TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2026.ts
+#EXTINF:-1 tvg-id="" tvg-name="New Line 1 KRD" tvg-logo="" group-title="Kurdistan",New Line 1 KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6672.ts
+#EXTINF:-1 tvg-id="" tvg-name="New Line 2 KRD" tvg-logo="" group-title="Kurdistan",New Line 2 KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Newroz KRD" tvg-logo="" group-title="Kurdistan",Newroz KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2025.ts
+#EXTINF:-1 tvg-id="" tvg-name="News Channel TV KRD" tvg-logo="" group-title="Kurdistan",News Channel TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Niga Kids KRD" tvg-logo="" group-title="Kurdistan",Niga Kids KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Niga Movies HD KRD" tvg-logo="" group-title="Kurdistan",Niga Movies HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2472.ts
+#EXTINF:-1 tvg-id="" tvg-name="Niga TV KRD" tvg-logo="" group-title="Kurdistan",Niga TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nishtmanimn HD KRD" tvg-logo="" group-title="Kurdistan",Nishtmanimn HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6668.ts
+#EXTINF:-1 tvg-id="" tvg-name="One Damla TV KRD" tvg-logo="" group-title="Kurdistan",One Damla TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2021.ts
+#EXTINF:-1 tvg-id="" tvg-name="One World HD KRD" tvg-logo="" group-title="Kurdistan",One World HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6662.ts
+#EXTINF:-1 tvg-id="" tvg-name="Parwarda TV KRD" tvg-logo="" group-title="Kurdistan",Parwarda TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6661.ts
+#EXTINF:-1 tvg-id="" tvg-name="Payam TV KRD" tvg-logo="" group-title="Kurdistan",Payam TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2020.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pelistank KRD" tvg-logo="" group-title="Kurdistan",Pelistank KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Qamishlo TV KRD" tvg-logo="" group-title="Kurdistan",Qamishlo TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Qellat HD KRD" tvg-logo="" group-title="Kurdistan",Qellat HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rasan TV KRD" tvg-logo="" group-title="Kurdistan",Rasan TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rega TV KRD" tvg-logo="" group-title="Kurdistan",Rega TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rojava KRD" tvg-logo="" group-title="Kurdistan",Rojava KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ronahi KRD" tvg-logo="" group-title="Kurdistan",Ronahi KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rudaw HD KRD" tvg-logo="" group-title="Kurdistan",Rudaw HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rudaw KRD" tvg-logo="" group-title="Kurdistan",Rudaw KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sahar Kurdish KRD" tvg-logo="" group-title="Kurdistan",Sahar Kurdish KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6656.ts
+#EXTINF:-1 tvg-id="" tvg-name="Slemani HD KRD" tvg-logo="" group-title="Kurdistan",Slemani HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6655.ts
+#EXTINF:-1 tvg-id="" tvg-name="Speda KRD" tvg-logo="" group-title="Kurdistan",Speda KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD KRD" tvg-logo="" group-title="Kurdistan",Sport HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6654.ts
+#EXTINF:-1 tvg-id="" tvg-name="Srusht HD KRD" tvg-logo="" group-title="Kurdistan",Srusht HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sterk KRD" tvg-logo="" group-title="Kurdistan",Sterk KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2012.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT Kurd KRD" tvg-logo="" group-title="Kurdistan",TRT Kurd KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2011.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 10 KRD" tvg-logo="" group-title="Kurdistan",TV 10 KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turkmeneli KRD" tvg-logo="" group-title="Kurdistan",Turkmeneli KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2464.ts
+#EXTINF:-1 tvg-id="" tvg-name="UTV HD KRD" tvg-logo="" group-title="Kurdistan",UTV HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6650.ts
+#EXTINF:-1 tvg-id="" tvg-name="UTV Slemani HD KRD" tvg-logo="" group-title="Kurdistan",UTV Slemani HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6649.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vin KRD" tvg-logo="" group-title="Kurdistan",Vin KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2009.ts
+#EXTINF:-1 tvg-id="" tvg-name="Waar TV KRD" tvg-logo="" group-title="Kurdistan",Waar TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xezan TV KRD" tvg-logo="" group-title="Kurdistan",Xezan TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zagros TV KRD" tvg-logo="" group-title="Kurdistan",Zagros TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2007.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zarok TV KRD" tvg-logo="" group-title="Kurdistan",Zarok TV KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/2466.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zayala HD KRD" tvg-logo="" group-title="Kurdistan",Zayala HD KRD
+http://portal.geniptv.com:8080/live/Tigersaid/DBmpf2Qg04/6646.ts
